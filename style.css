@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: gainsboro;
+}
+
+h1 {
+    color: darkred;
+}
+
+.about h2 {
+    color: blue;
+    background-color: lightgreen;
+}
+
+.more h2 {
+    color: rgb(175, 179, 168);
+    background-color: black;
+}
+
+p {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.about img{
+    width: 300px;
+    height: 300px;
+}
+
+img:hover{
+    transform: scale(2);
+
+}
+
